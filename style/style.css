@@ -1,0 +1,29 @@
+*{
+    font-family: "Century Gothic"
+}
+
+
+.nav-img{
+    width: 100px;
+    margin: 0 40px;
+}
+
+.container{ 
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+
+.container-1, .container-2{
+    width: 48%;
+    text-align: center;
+}
+
+
+@media (max-width: 995px) {
+    .nav-img{
+        display: none;
+    }
+}
