@@ -73,7 +73,7 @@
 }
 
 #adicionales{
-    margin: 80px 0;
+    margin: 4em 0;
 }
 
 .adicionales-container-1, .adicionales-container-2{
@@ -186,7 +186,7 @@ a, a:hover{
 
 @media (max-width: 450px) {
     #blog{
-        padding: 0;
+        padding: 2em 0;
     }
 
     .card{
